@@ -1,0 +1,239 @@
+
+/* ===================================
+	ORANGE COLORS
+====================================== */
+
+/* ===================================
+	BACKGROUND COLOR
+====================================== */
+.background-three {
+	background-color: #afb42b;
+}
+
+/* ===================================
+	HIGHLIGHT
+====================================== */
+span.respo-color-contras{
+	color: #afb42b;
+	font-size: 50px !important;
+}
+
+/* ===================================
+	SOLID BUTTON
+====================================== */
+.respo-button-solid{
+	background-color: #afb42b;
+}
+
+.respo-button-solid:hover{
+	opacity: 0.7;
+}
+
+/* ===================================
+	OUTLINE BUTTON
+====================================== */
+.respo-button-outline-light:hover{
+	background-color: #afb42b
+}
+
+/* ===================================
+	DARK BUTTON
+====================================== */
+.respo-button-outline-dark:hover{
+	background-color: #afb42b;
+}
+
+/* ===================================
+	ROUND BTN
+====================================== */
+.respo-btn-round{
+	background-color: #afb42b;
+}
+
+.respo-btn-round:hover{
+	opacity: 0.7;
+}
+
+/* ===================================
+	ICON
+====================================== */
+.respo-blurb-icon-only i{
+	color: #afb42b;
+}
+
+.respo-blurb-icon-only h3{
+	color: #afb42b
+}
+
+/* ===================================
+	ROUND ICON
+====================================== */
+.respo-blurb-round-icon:hover .respo-icon{
+	background-color: #afb42b;
+}
+
+.respo-icones .respo-icon i {
+	color: #dadada;
+}
+
+.respo-blurb-round-icon:hover h3{
+	color: #afb42b;
+}
+
+/* ===================================
+	ICON SQUARE
+====================================== */
+.respo-icones:hover .respo-blurb-text h3{
+	color: #afb42b;
+}
+
+.respo-icones:hover .respo-blurb-text h3:after{
+	background-color: #afb42b;
+}
+
+.respo-icones .respo-blurb-text h3:after {
+	background-color: #afb42b;
+}
+
+.respo-icones .respo-icon:hover {
+	background-color: #afb42b;
+	border: none;
+	color: #fff;
+}
+
+.respo-icones .respo-icon:hover i{
+	background-color: #afb42b;
+	border: none;
+	color: #fff;
+}
+
+.respo-main-menu .navbar-nav li a:hover,
+.respo-main-menu .navbar-nav li.active a{
+    color: #afb42b;
+    border-color: #afb42b;
+}
+
+.respo-slider .sp-selected-button {
+  	background-color: #afb42b;
+}
+
+.respo-member-details h3{
+	color: #afb42b;
+}
+
+.respo-line{
+	border-top: 2px solid #afb42b;
+	border-bottom: 2px solid #afb42b;
+}
+
+.respo-counter-item h3:after {
+	background-color: #fff;
+}
+
+/* ===================================
+	FEATURED WORK
+====================================== */
+.respo-port-work-details .respo-port-work-desc p a:hover{
+	color: #afb42b;
+}
+
+.respo-port-work-details .respo-port-work-desc h3{
+	color: #afb42b;
+}
+
+.respo-recommended-pricing{
+	
+}
+
+.recommended-titles {
+	background-color: #afb42b;
+}
+
+.respo-icones{
+	overflow: hidden;
+	padding: 20px;
+	border-bottom: 1px dotted #afb42b;
+}
+
+.respo-icones-center{
+	border-left: 1px dotted #afb42b;
+	border-right: 1px dotted #afb42b;
+}
+.respo-portfolio-work-item .respo-work-meta li{
+	border: 4px solid #afb42b;
+	background-color: #afb42b;
+	border-radius: 50%;
+}
+/* ===================================
+	PORTFOLIO
+====================================== */
+.respo-portfolio-filter-btn-group ul li a.selected{
+	color: #afb42b;
+}
+
+.respo-portfolio-filter-btn-group ul li a {
+	border-right: 1px dotted #afb42b;
+}
+
+/* ===================================
+	PRICING
+====================================== */
+.respo-pricing-plans .respo-pricing-titles h2{
+	color: #afb42b
+}
+
+.respo-pricing-plans {
+	
+}
+
+.respo-pricing-plans .respo-pricing-titles p span{
+	color: #afb42b;
+}
+
+/* ===================================
+	SIGN UP 
+====================================== */
+.respo-pricing-plans a.respo-signup-btn{
+	border: 2px solid #afb42b;
+}
+
+.respo-pricing-plans a.respo-signup-btn:hover{
+	background-color: #afb42b;
+}
+
+/* ===================================
+	CONTACT
+====================================== */
+.respo-contact-section .respo-contact-address ul li {
+	background-color: #afb42b;
+}
+
+.respo-contact-section .respo-contact-form input[type='submit']{
+	background-color: #444400;
+}
+
+.respo-contact-section .respo-contact-form input[type='submit']:hover{
+	opacity: 0.7;
+}
+
+.respo-find-us-btn h3{
+	color: #afb42b;
+}
+
+.respo-portfolio-information .respo-share-project ul li a:hover i{
+	color: #afb42b;
+}
+
+/* ===================================
+	OWL CAROUSEL 
+====================================== */
+.owl-theme .owl-controls .owl-page span {
+	background-color: #afb42b !important;
+}
+
+/* ===================================
+	FOOTER
+====================================== */
+footer ul li a:hover i{
+	color: #afb42b;
+}
