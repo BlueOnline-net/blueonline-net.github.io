@@ -15,6 +15,24 @@ dl, dt, dd, ol, ul, li {
 	padding: 0;
 }
 
+.h_advantage_bg {
+    background: url(/images/h_advantage_bg.jpg);
+}
+
+.h_container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.h_advantage_bg .container h2 {
+    font-size: 220%;
+    color: #f56d33;
+    text-align: center;
+    line-height: 36px;
+    padding: 60px 0;
+}
+
 .clear {
 	clear: both;
 	display: block;
